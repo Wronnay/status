@@ -4,10 +4,10 @@
     "url": "http://s3.wronnay.net",
     "icon": "https://favicons.githubusercontent.com/s3.wronnay.net",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
@@ -15,25 +15,28 @@
     "timeWeek": 760,
     "timeMonth": 796,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 2
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.wronnay.net",
     "icon": "https://favicons.githubusercontent.com/blog.wronnay.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 642,
-    "timeDay": 426,
+    "timeDay": 495,
     "timeWeek": 403,
     "timeMonth": 564,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2021-06-09": 0,
       "2021-06-08": 34
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://kb.wronnay.net",
     "icon": "https://favicons.githubusercontent.com/kb.wronnay.net",
     "slug": "kanboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 875,
     "timeMonth": 933,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "Gitea",
     "url": "https://git.kernel.fun/",
     "icon": "https://favicons.githubusercontent.com/git.kernel.fun",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 638,
     "timeMonth": 731,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "WebPage4.Me",
