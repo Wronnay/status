@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 785,
-    "timeDay": 735,
-    "timeWeek": 720,
-    "timeMonth": 839,
+    "timeDay": 748,
+    "timeWeek": 706,
+    "timeMonth": 845,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2021-06-09": 31
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.wronnay.net",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.91%",
-    "time": 609,
-    "timeDay": 508,
-    "timeWeek": 513,
-    "timeMonth": 514,
-    "timeYear": 609,
+    "uptimeYear": "99.92%",
+    "time": 605,
+    "timeDay": 380,
+    "timeWeek": 506,
+    "timeMonth": 510,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2021-06-09": 30,
       "2021-06-08": 34
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 927,
-    "timeDay": 712,
-    "timeWeek": 841,
-    "timeMonth": 903,
-    "timeYear": 927,
+    "time": 932,
+    "timeDay": 1178,
+    "timeWeek": 867,
+    "timeMonth": 911,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2021-06-09": 29
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 728,
-    "timeDay": 408,
-    "timeWeek": 644,
-    "timeMonth": 722,
-    "timeYear": 728,
+    "time": 725,
+    "timeDay": 563,
+    "timeWeek": 598,
+    "timeMonth": 706,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2021-06-09": 29
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 887,
-    "timeWeek": 907,
-    "timeMonth": 917,
-    "timeYear": 935,
+    "time": 932,
+    "timeDay": 762,
+    "timeWeek": 901,
+    "timeMonth": 913,
+    "timeYear": 932,
     "dailyMinutesDown": {}
   }
 ]
