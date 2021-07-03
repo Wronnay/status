@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 793,
-    "timeDay": 984,
-    "timeWeek": 839,
-    "timeMonth": 800,
-    "timeYear": 793,
+    "time": 796,
+    "timeDay": 1026,
+    "timeWeek": 881,
+    "timeMonth": 812,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2021-06-09": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
-    "time": 605,
-    "timeDay": 626,
-    "timeWeek": 555,
-    "timeMonth": 507,
-    "timeYear": 605,
+    "time": 603,
+    "timeDay": 491,
+    "timeWeek": 553,
+    "timeMonth": 510,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2021-06-09": 30,
       "2021-06-08": 34
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 936,
-    "timeDay": 1003,
-    "timeWeek": 974,
-    "timeMonth": 916,
-    "timeYear": 936,
+    "time": 937,
+    "timeDay": 972,
+    "timeWeek": 1011,
+    "timeMonth": 918,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2021-06-09": 29
     }
@@ -66,16 +66,16 @@
     "icon": "https://favicons.githubusercontent.com/git.kernel.fun",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 734,
-    "timeDay": 890,
-    "timeWeek": 731,
-    "timeMonth": 718,
-    "timeYear": 734,
+    "uptimeYear": "99.97%",
+    "time": 731,
+    "timeDay": 551,
+    "timeWeek": 752,
+    "timeMonth": 717,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2021-06-09": 29
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 800,
-    "timeWeek": 959,
-    "timeMonth": 940,
-    "timeYear": 939,
+    "time": 937,
+    "timeDay": 843,
+    "timeWeek": 953,
+    "timeMonth": 937,
+    "timeYear": 937,
     "dailyMinutesDown": {}
   }
 ]
