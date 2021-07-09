@@ -86,9 +86,9 @@
     "url": "https://webpage4.me",
     "icon": "https://favicons.githubusercontent.com/webpage4.me",
     "slug": "web-page4-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,6 +97,8 @@
     "timeWeek": 983,
     "timeMonth": 957,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   }
 ]
