@@ -68,10 +68,10 @@
     "url": "https://kb.wronnay.net",
     "icon": "https://favicons.githubusercontent.com/kb.wronnay.net",
     "slug": "kanboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 995,
@@ -80,6 +80,7 @@
     "timeMonth": 980,
     "timeYear": 998,
     "dailyMinutesDown": {
+      "2022-05-25": 2,
       "2021-10-27": 28,
       "2021-10-26": 8,
       "2021-09-02": 42,
@@ -118,9 +119,9 @@
     "url": "https://webpage4.me",
     "icon": "https://favicons.githubusercontent.com/webpage4.me",
     "slug": "web-page4-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -130,6 +131,7 @@
     "timeMonth": 1163,
     "timeYear": 1150,
     "dailyMinutesDown": {
+      "2022-05-25": 0,
       "2021-09-02": 41,
       "2021-07-09": 22
     }
